@@ -1,4 +1,8 @@
 _site
 .sass-cache
+<<<<<<< HEAD
 node_modules
 _drafts
+=======
+.jekyll-metadata
+>>>>>>> 1d67673e2e6651efad51d5fc8b33aa143f42e640
