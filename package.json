@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "willjekylltemplate",
   "version": "1.0.0",
   "description": "My jekyll blog template.",
@@ -33,32 +32,5 @@
     "jeet": "^6.1.4",
     "kouto-swiss": "^0.11.14",
     "rupture": "^0.6.1"
-=======
-  "name": "jekyll-hgcasper-theme",
-  "version": "0.0.1",
-  "description": "my vision of Theme Casper",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/hugocarreira/jekyll-theme-casper.git"
-  },
-  "keywords": [
-    "jekyll",
-    "casper",
-    "theme",
-    "hugocarreira"
-  ],
-  "author": "hugocarreira",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/hugocarreira/jekyll-theme-casper/issues"
-  },
-  "homepage": "https://github.com/hugocarreira/jekyll-theme-casper#readme",
-  "devDependencies": {
-    
->>>>>>> 1d67673e2e6651efad51d5fc8b33aa143f42e640
   }
 }

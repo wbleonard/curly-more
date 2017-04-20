@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Will Jekyll Template - [Demo](http://willianjusten.com.br/will-jekyll-template)
 
 ![Screenshot](screenshot.png)
@@ -117,17 +116,3 @@ If you’d like to give me credit somewhere on your blog or tweet a shout out to
 
 
 
-=======
-# jekyll-vision-casper-theme
-:construction: work in progress - only my simple vision of casper theme adapted to jekyl  
-
-## TODO
-- [ ] - Logo
-- [ ] - Navbar
-- [ ] - Menu
-
-## Preview:
-![alt tag](screencapture-hugocarreira-github-io-jekyll-vision-casper-theme-1480141015947.png)
-
-[DEMO](https://hugocarreira.github.io/jekyll-vision-casper-theme)
->>>>>>> 1d67673e2e6651efad51d5fc8b33aa143f42e640
